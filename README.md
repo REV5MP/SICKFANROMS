@@ -1,6 +1,4 @@
-WELCOME TO MY GITHUB PAGE
+GBA FILES HERE 
 
-V1.2 12/15/25
- - added 2 new gba fan roms
-     - minicraft
-     - anguna
+
+CHECK Change Log TO SEE WHATS NEW
